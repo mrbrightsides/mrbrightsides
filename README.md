@@ -14,6 +14,10 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara id
   <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024">
     <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Badge"/>
   </a>
+  <a href="https://sinta.kemdikbud.go.id/authors/profile/6738721">
+  <img src="https://img.shields.io/badge/SINTA%206.0-6738721-0088cc?style=for-the-badge&logo=Science&logoColor=white" alt="SINTA Profile"/>
+</a>
+
 </p>
 
 ## 💼 Minat dan Bidang Keahlian
