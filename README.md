@@ -33,7 +33,7 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara id
 
 ## 🎯 Misi Personal
 
-Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif** — baik di kampus, komunitas, maupun ruang digital yang lebih luas.
+Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, baik di kampus, komunitas, maupun ruang digital yang lebih luas.
 
 ## 📬 Let’s Connect
 
