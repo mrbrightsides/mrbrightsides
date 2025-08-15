@@ -21,6 +21,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara id
   <img src="https://img.shields.io/badge/Zenodo-RANTAI-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
   </a>
 </p>
+[![Scopus](https://img.shields.io/badge/Scopus-Coming_Soon-orange)](#)
+
 
 ## 💼 Minat dan Bidang Keahlian
 
