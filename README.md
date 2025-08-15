@@ -5,18 +5,18 @@ Halo! Saya **Akhmad Khudri**, seorang dosen, peneliti, dan pembelajar seumur hid
 Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara ide, manusia, dan masa depan.
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=_aKr31IAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar Badge"/>
-  </a>
-  <a href="https://orcid.org/0009-0005-6689-2480">
-    <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
-  </a>
-  <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024">
-    <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Badge"/>
   </a>
   <a href="https://sinta.kemdikbud.go.id/authors/profile/6738721">
   <img src="https://img.shields.io/badge/SINTA%206.0-6738721-0088cc?style=for-the-badge&logo=Science&logoColor=white" alt="SINTA Profile"/>
   </a>
+  <a href="https://orcid.org/0009-0005-6689-2480">
+    <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=_aKr31IAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Badge"/>
   <a href="https://zenodo.org/communities/rantai/" target="_blank">
   <img src="https://img.shields.io/badge/Zenodo-RANTAI-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
   </a>
