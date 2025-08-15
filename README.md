@@ -4,6 +4,18 @@ Halo! Saya **Akhmad Khudri**, seorang dosen, peneliti, dan pembelajar seumur hid
 
 Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara ide, manusia, dan masa depan.
 
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=_aKr31IAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://orcid.org/0009-0005-6689-2480">
+    <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
+  </a>
+  <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024">
+    <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Badge"/>
+  </a>
+</p>
+
 ## 💼 Minat dan Bidang Keahlian
 
 - **Blockchain & Smart Contract**
