@@ -40,3 +40,10 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif** — 
 - 🌐 Website: [khudri.elpeef.com](https://khudri.elpeef.com)
 - 📧 Email: khudri[@]elpeef.com
 - 💼 Portofolio: [s.id/khudri](https://s.id/khudri)
+
+## ☕ Support Me
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/mrbrightsides)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-khudri-29abe0?logo=ko-fi)](https://ko-fi.com/khudri)
+[![Trakteer](https://img.shields.io/badge/Trakteer-ID-red?logo=buymeacoffee)](https://trakteer.id/akhmad_khudri)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/paypalme/akhmadkhudri)
