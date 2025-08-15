@@ -16,8 +16,10 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog — antara id
   </a>
   <a href="https://sinta.kemdikbud.go.id/authors/profile/6738721">
   <img src="https://img.shields.io/badge/SINTA%206.0-6738721-0088cc?style=for-the-badge&logo=Science&logoColor=white" alt="SINTA Profile"/>
-</a>
-
+  </a>
+  <a href="https://zenodo.org/communities/rantai/" target="_blank">
+  <img src="https://img.shields.io/badge/Zenodo-RANTAI-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
+  </a>
 </p>
 
 ## 💼 Minat dan Bidang Keahlian
