@@ -47,3 +47,6 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, bai
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-khudri-29abe0?logo=ko-fi)](https://ko-fi.com/khudri)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/paypalme/akhmadkhudri)
 [![Trakteer](https://img.shields.io/badge/Trakteer-ID-red?logo=buymeacoffee)](https://trakteer.id/akhmad_khudri)
+
+## Hackatime
+[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=19310&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
