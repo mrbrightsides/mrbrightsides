@@ -40,6 +40,7 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, bai
 - 🌐 Website: [khudri.elpeef.com](https://khudri.elpeef.com)
 - 📧 Email: khudri[@]elpeef.com
 - 💼 Portofolio: [mrbrightsides.github.io](https://mrbrightsides.github.io)
+- 💬 TawkTo: [https://tawk.to/khudri](https://tawk.to/khudri)
 
 ## ☕ Support Me
 
