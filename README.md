@@ -59,7 +59,7 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, bai
 
 ---
 
-## 👨‍🎓 **Bagian Serius** ends here...
+## 👨‍🎓 **Bagian Serius** ~ ends here...
 (Tentang akademik, publikasi, SINTA, ORCID, Scholar, dsb.)
 
 ---
@@ -72,20 +72,20 @@ Scroll ke bawah siap2 masuk dunia *commit storm*, *trophy palsu*, dan jokes inte
 
 ## 🏆 Trophy Showcase
 
-Dengan bangga mempersembahkan..... ba-dum-ts
+Dengan bangga mempersembahkan..... jeng jeng jeng ba-dum-ts
 | 🏅 Achievement | 📝 Deskripsi | 📆 Status |
 |----------------|-------------|-----------|
-| 🟢 **Beast Mode** | 1000+ commit dalam 1 bulan, tangan masih utuh | ✅ Unlocked |
+| 🟢 **Beast Mode** | 1200+ kontribusi dalam 1 bulan, tangan masih utuh | ✅ Unlocked |
 | 🌪️ **Commit Storm** | Hajar commit tiap hari, bahkan weekend ga ngaruh | ✅ Unlocked |
 | 🏹 **Repo Hunter** | 16+ repo lahir dalam sebulan | ✅ Unlocked |
-| 🏗️ **Ecosystem Builder** | Nyusun RANTAI, STC, Insight, SWC, Bench dalam ekosistem rapi | ✅ Unlocked |
+| 🏗️ **Ecosystem Builder** | Nyusun RANTAI, STC, Insight, SWC, Bench dalam ekosistem lengkap | ✅ Unlocked |
 | 🔮 **Visionary Dev** | Build sistem yang ga kepikiran orang lain | ✅ Unlocked |
-| 🐉 **Boss Level Maintainer** | README udah kayak kitab suci + kartu Yu-Gi-Oh | ✅ Permanent |
-| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bina Darma (UBM) --> SERIUS!! | 🥇 Champion |
+| 🐉 **Boss Level Maintainer** | README udah kayak buku keramat + kartu Yu-Gi-Oh | ✅ Permanent |
+| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia (UBM), Jakarta --> SERIUS!! | 🥇 Champion |
 
-![Beast Mode](https://img.shields.io/badge/Commits-1198-green?logo=github&label=Beast%20Mode)
+![Beast Mode](https://img.shields.io/badge/Contri-1264-green?logo=github&label=Beast%20Mode)
+![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1200-purple?logo=github&label=Commit%20Storm)
 ![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
-![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1198-purple?logo=github&label=Commit%20Storm)
 ![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=Ecosystem%20Builder)
 
 ---
@@ -109,5 +109,5 @@ Dengan bangga mempersembahkan..... ba-dum-ts
 ## 🎭 Fun Fact
 > Profil ini kadang serius, kadang bercanda.  
 > Kalau mau formal, silakan ke LinkedIn.  
-> Kalau mau ketawa tapi tetep belajar sesuatu, selamat datang di sini 😁
+> Tapi kalau mau ketawa dan tetep sambil belajar sesuatu, selamat datang 😁
 
