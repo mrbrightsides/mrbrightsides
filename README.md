@@ -44,9 +44,9 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, bai
 ## 📬 Let’s Connect
 
 - 🌐 Website: [khudri.elpeef.com](https://khudri.elpeef.com)
-- 📧 Email: khudri[@]elpeef.com
+- 📧 Email: [khudri@elpeef.com](mailto:khudri@elpeef.com)
 - 💼 Portofolio: [mrbrightsides.github.io](https://mrbrightsides.github.io)
-- 💬 TawkTo: [https://tawk.to/khudri](https://tawk.to/khudri)
+- 💬 Chat: [https://tawk.to/khudri](https://tawk.to/khudri)
 
 ---
 
