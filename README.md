@@ -1,4 +1,4 @@
-## 👋 About Me
+# 👋 About Me
 
 Halo! Saya **Akhmad Khudri**, seorang dosen, peneliti, dan pembelajar seumur hidup yang tertarik pada pertemuan antara teknologi, pendidikan, dan sejarah kemanusiaan. Saat ini saya mengajar di universitas swasta dan sedang menempuh studi doktoral dengan fokus pada **blockchain, smart contract, dan transformasi digital di sektor pariwisata**.
 
@@ -22,6 +22,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   </a>
 </p>
 
+---
+
 ## 💼 Minat dan Bidang Keahlian
 
 - **Blockchain & Smart Contract**
@@ -31,9 +33,13 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
 
+---
+
 ## 🎯 Misi Personal
 
 Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, baik di kampus, komunitas, maupun ruang digital yang lebih luas.
+
+---
 
 ## 📬 Let’s Connect
 
@@ -42,9 +48,66 @@ Mendorong pemanfaatan teknologi yang **bermakna, transparan, dan inklusif**, bai
 - 💼 Portofolio: [mrbrightsides.github.io](https://mrbrightsides.github.io)
 - 💬 TawkTo: [https://tawk.to/khudri](https://tawk.to/khudri)
 
+---
+
 ## ☕ Support Me
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-red?logo=github)](https://github.com/sponsors/mrbrightsides)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-khudri-29abe0?logo=ko-fi)](https://ko-fi.com/khudri)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/paypalme/akhmadkhudri)
 [![Trakteer](https://img.shields.io/badge/Trakteer-ID-red?logo=buymeacoffee)](https://trakteer.id/akhmad_khudri)
+
+---
+
+## 👨‍🎓 **Bagian Serius** ends here...
+(Tentang akademik, publikasi, SINTA, ORCID, Scholar, dsb.)
+
+---
+
+## 🤪 **Mode Switch: Dari Akademik ke Tongkrongan Dev**  
+Karena hidup ga melulu soal jurnal & sitasi.  
+Scroll ke bawah siap2 masuk dunia *commit storm*, *trophy palsu*, dan jokes internal dev  
+
+---
+
+## 🏆 Trophy Showcase
+
+Dengan bangga mempersembahkan..... ba-dum-ts
+| 🏅 Achievement | 📝 Deskripsi | 📆 Status |
+|----------------|-------------|-----------|
+| 🟢 **Beast Mode** | 1000+ commit dalam 1 bulan, tangan masih utuh | ✅ Unlocked |
+| 🌪️ **Commit Storm** | Hajar commit tiap hari, bahkan weekend ga ngaruh | ✅ Unlocked |
+| 🏹 **Repo Hunter** | 16+ repo lahir dalam sebulan | ✅ Unlocked |
+| 🏗️ **Ecosystem Builder** | Nyusun RANTAI, STC, Insight, SWC, Bench dalam ekosistem rapi | ✅ Unlocked |
+| 🔮 **Visionary Dev** | Build sistem yang ga kepikiran orang lain | ✅ Unlocked |
+| 🐉 **Boss Level Maintainer** | README udah kayak kitab suci + kartu Yu-Gi-Oh | ✅ Permanent |
+| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bina Darma (UBM) --> SERIUS!! | 🥇 Champion |
+
+![Beast Mode](https://img.shields.io/badge/Commits-1198-green?logo=github&label=Beast%20Mode)
+![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
+![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1198-purple?logo=github&label=Commit%20Storm)
+![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=Ecosystem%20Builder)
+
+---
+
+## 🕹️ Achievement on Progress
+
+🚧 Sedang di-*grind*... coming soon (atau ga sama sekali 🤷‍♂️)  
+
+- ☕ **Coffee Overflow** → begadang 3 malam berturut-turut coding, supply kopi ga putus.  
+- 🐛 **Bug Whisperer** → nemu bug pas lagi ngaji, langsung fix sebelum salam terakhir.  
+- 🛠️ **Hotfix Ninja** → deploy patch kilat sebelum jadwal rutin jemput anak.  
+- 🤖 **AI Tamer** → bikin LLM nurut kayak asisten pribadi, bukan malah ngegas balik.  
+- 🌐 **Web3 Evangelist** → ngajarin emak2 bikin wallet crypto buat beli sayur di pasar.  
+- 🔥 **Deploy or Die** → push code langsung ke production tanpa testing (jangan ditiru 👀).  
+- 📊 **Dashboard Addict** → tiap data dikit aja udah bikin chart, heatmap, scatter plot.  
+
+> “Prestasi itu bukan cuma sekadar tropi juara. Berhasil nemu koma atau indentasi di balik tiap error juga patut dirayakan.”
+
+---
+
+## 🎭 Fun Fact
+> Profil ini kadang serius, kadang bercanda.  
+> Kalau mau formal, silakan ke LinkedIn.  
+> Kalau mau ketawa tapi tetep belajar sesuatu, selamat datang di sini 😁
+
