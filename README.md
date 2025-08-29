@@ -81,12 +81,12 @@ Dengan bangga mempersembahkan..... jeng jeng jeng ba-dum-ts
 | 🏗️ **Ecosystem Builder** | Nyusun RANTAI, STC, Insight, SWC, Bench dalam ekosistem lengkap | ✅ Unlocked |
 | 🔮 **Visionary Dev** | Build sistem yang ga kepikiran orang lain | ✅ Unlocked |
 | 🐉 **Boss Level Maintainer** | README udah kayak buku keramat + kartu Yu-Gi-Oh | ✅ Permanent |
-| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia, Jakarta --> SERIUS!! | 🥇 Champion |
+| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia, Jakarta --> SERIUS!!! | 🥇 Champion |
 
 ![Beast Mode](https://img.shields.io/badge/Contri-1264-green?logo=github&label=Beast%20Mode)
 ![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1200-purple?logo=github&label=Commit%20Storm)
 ![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
-![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=Ecosystem%20Builder)
+![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=STC%20SmartFaith%20Builder)
 
 ---
 
