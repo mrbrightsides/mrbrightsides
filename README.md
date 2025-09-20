@@ -40,7 +40,9 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 <img width="2667" height="1667" alt="image" src="https://github.com/user-attachments/assets/bc379c46-222b-4a07-abcd-616c66710eb4" /> <br>
 
-<img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7a273d9-8939-4c55-8462-da8d65060b81" />
+<img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7a273d9-8939-4c55-8462-da8d65060b81" /> <br>
+
+![e-certificate_1109_Akhmad+Khudri_page-0001](https://github.com/user-attachments/assets/377399ae-206c-402d-b322-caeb4228e48d)
 
 ---
 
@@ -79,7 +81,7 @@ Scroll ke bawah siap2 masuk dunia *commit storm*, *trophy palsu*, dan jokes inte
 
 ---
 
-## 🛠️ Milestone Journey — Alchemy University Certified Ethereum Developer
+## 📜 Milestone Journey — Alchemy University Certified Ethereum Developer
 
 - 📌 Awal Mula → Mulai serius eksplorasi Web3 & smart contract development, "gara-gara" disertasi, jadi nyemplung ke ekosistem Ethereum.
 
@@ -104,12 +106,12 @@ Dengan bangga mempersembahkan..... jeng jeng jeng ba-dum-ts
 | 🏗️ **Ecosystem Builder** | Nyusun RANTAI, STC, Insight, SWC, Bench dalam ekosistem lengkap | ✅ Unlocked |
 | 🔮 **Visionary Dev** | Build sistem yang ga kepikiran orang lain | ✅ Unlocked |
 | 🐉 **Boss Level Maintainer** | README udah kayak buku keramat + kartu Yu-Gi-Oh | ✅ Permanent |
-| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia, Jakarta --> SERIUS!!! | 🥇 Champion |
+| 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia, Jakarta --> SERIUS!!! | 🥇 Champion | 
 
 ![Beast Mode](https://img.shields.io/badge/Contri-1264-green?logo=github&label=Beast%20Mode)
 ![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1200-purple?logo=github&label=Commit%20Storm)
 ![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
-![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=STC%20SmartFaith%20Builder)
+![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=SmartFaith%20Builder)
 
 ---
 
