@@ -7,21 +7,21 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 <p align="center">
   </a>
   <a href="https://sinta.kemdikbud.go.id/authors/profile/6738721" target="_blank">
-  <img src="https://img.shields.io/badge/SINTA%206.0-6738721-0088cc?style=for-the-badge&logo=Science&logoColor=white" alt="SINTA Profile"/>
+  <img src="https://img.shields.io/badge/SINTA-0088cc?style=for-the-badge&logo=sass&logoColor=white" alt="SINTA Profile"/>
   </a>
   <a href="https://orcid.org/0009-0005-6689-2480" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Badge"/>
+    <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Profile"/>
   </a>
   <a href="https://scholar.google.com/citations?user=_aKr31IAAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar Badge"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Google Scholar Profile"/>
   </a>
   <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024" target="_blank">
-    <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Badge"/>
+    <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Profile"/>
   <a href="https://zenodo.org/communities/rantai/" target="_blank">
-    <img src="https://img.shields.io/badge/Zenodo-RANTAI-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
+    <img src="https://img.shields.io/badge/Zenodo-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
   </a>
   <a href="https://g.dev/khudri" target="_blank">
-    <img src="https://img.shields.io/badge/g.dev%2Fkhudri-Google-lightgrey?style=for-the-badge&logo=google&logoColor=white" alt="g.dev/khudri">
+    <img src="https://img.shields.io/badge/Google%20Dev-lightgrey?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev Profile">
   </a>
 </p>
 
