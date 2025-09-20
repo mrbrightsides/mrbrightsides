@@ -33,6 +33,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
 
+<img width="1600" height="866" alt="certificate" src="https://github.com/user-attachments/assets/bde54273-d473-432a-8b07-a27c1e7e9e7b" />
+
 ---
 
 ## 🎯 Misi Personal
