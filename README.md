@@ -112,6 +112,7 @@ Dengan bangga mempersembahkan..... jeng jeng jeng ba-dum-ts
 ![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1200-purple?logo=github&label=Commit%20Storm)
 ![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
 ![Ecosystem Builder](https://img.shields.io/badge/STC-Ecosystem-orange?logo=blockchaindotcom&label=SmartFaith%20Builder)
+![Visitors](https://komarev.com/ghpvc/?username=mrbrightsides&style=flat-square&color=orange)
 
 ---
 
