@@ -38,6 +38,12 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
 
+---
+
+## 🧾 Sertifikasi Sesuai Bidang Ilmu
+
+<img width="2000" height="2000" alt="SBT Alchemy Certificate" src="https://github.com/user-attachments/assets/701c56e5-a9b0-4ea2-ae4f-e0b9af893a88" /> <br>
+
 <img width="1600" height="866" alt="certificate" src="https://github.com/user-attachments/assets/bde54273-d473-432a-8b07-a27c1e7e9e7b" /> <br>
 
 <img width="2667" height="1667" alt="image" src="https://github.com/user-attachments/assets/bc379c46-222b-4a07-abcd-616c66710eb4" />
