@@ -32,6 +32,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **Blockchain & Smart Contract**
 - **Web3 & Digital Ecosystem**
 - **Artificial Intelligence & Chatbot Edukasi**
+- **SDGs & Green Technology**
+- **Cloud Computing**
 - **WordPress Plugin Development**
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
@@ -43,6 +45,14 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7a273d9-8939-4c55-8462-da8d65060b81" />
 
 ![e-certificate_1109_Akhmad+Khudri_page-0001](https://github.com/user-attachments/assets/377399ae-206c-402d-b322-caeb4228e48d)
+
+![certificate folu net sink](https://github.com/user-attachments/assets/684c4e77-de03-4b0c-aed3-43c2f325a0ce)
+
+![24-08-29-12-05-55-sertifikat_page-0001](https://github.com/user-attachments/assets/815ce80b-5479-4c3d-8b46-849060224a3f)
+
+![AkhmadKhudri_ORBITFA64f6e87abb83f_page-0001](https://github.com/user-attachments/assets/215b6043-3eb9-4ec0-beee-37a8fd5f9fa1)
+
+<img width="1368" height="967" alt="training blockchain" src="https://github.com/user-attachments/assets/8c2cb441-d686-4d63-a615-4a84fcdb654c" />
 
 ---
 
