@@ -113,6 +113,12 @@ Scroll ke bawah siap2 masuk dunia *commit storm*, *trophy palsu*, dan jokes inte
 
 - 🏆 Certified! → Project dinyatakan very impressive oleh Alchemy University, resmi jadi Alchemy Certified Ethereum Developer.
 
+<p align="center">
+  <a href="https://opensea.io/item/shape/0xcbe9500ef4f760d05d70381ccdf0169470b137de/22" target="_blank">
+  <img src="https://img.shields.io/badge/SBT%20Certificate-0088cc?style=for-the-badge&logo=alchemy&logoColor=white" alt="AlchemyU Certified SBT"/>
+  </a>
+</p>
+
 ---
 
 ## 🏆 Trophy Showcase
@@ -128,12 +134,11 @@ Dengan bangga mempersembahkan..... jeng jeng jeng ba-dum-ts
 | 🐉 **Boss Level Maintainer** | README udah kayak buku keramat + kartu Yu-Gi-Oh | ✅ Permanent |
 | 🏆 **TechnoArt Hackathon Champion** | Juara 1 Hackathon AI @ Universitas Bunda Mulia, Jakarta --> SERIUS!!! | 🥇 Champion | 
 
-![Beast Mode](https://img.shields.io/badge/Contri-1264-green?logo=github&label=Beast%20Mode)
-![Commit Storm](https://img.shields.io/badge/Commits%20in%20Aug-1200-purple?logo=github&label=Commit%20Storm)
-![Repo Hunter](https://img.shields.io/badge/Repos-16-blue?logo=github&label=Repo%20Hunter)
+![Commit Storm](https://img.shields.io/badge/Commits-1000/Month-purple?logo=github&label=Commit%20Storm)
+![Repo Hunter](https://img.shields.io/badge/Repos-90+-blue?logo=github&label=Repo%20Hunter)
 ![Visitors](https://komarev.com/ghpvc/?username=mrbrightsides&style=flat-square&color=orange)
 ![Ecosystem Builder](https://img.shields.io/badge/STC-Builder-cyan?logo=blockchaindotcom&label=STC%20Ecosystem)
-![Communities Maitainer](https://img.shields.io/badge/RANTAI-Maintainer-magenta?logo=blockchaindotcom&label=RANTAI%20Communities)
+![Communities Maitainer](https://img.shields.io/badge/RANTAI-Maintainer-brightgreen?logo=blockchaindotcom&label=RANTAI%20Communities)
 ![Platform Founder](https://img.shields.io/badge/ELPEEF-Founder-yellow?logo=blockchaindotcom&label=ELPEEF%20Platform)
 
 ---
