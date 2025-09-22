@@ -114,7 +114,7 @@ Scroll ke bawah siap2 masuk dunia *commit storm*, *trophy palsu*, dan jokes inte
 - 🏆 Certified! → Project dinyatakan very impressive oleh Alchemy University, resmi jadi Alchemy Certified Ethereum Developer.
 
 <p align="center">
-  <a href="https://opensea.io/item/shape/0xcbe9500ef4f760d05d70381ccdf0169470b137de/22" target="_blank">
+  <a href="https://shapescan.xyz/address/0xcbe9500ef4f760d05d70381ccdf0169470b137de" target="_blank">
   <img src="https://img.shields.io/badge/SBT%20Certificate-0088cc?style=for-the-badge&logo=alchemy&logoColor=white" alt="AlchemyU Certified SBT"/>
   </a>
 </p>
