@@ -42,7 +42,11 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 ## 🧾 Sertifikasi Sesuai Bidang Ilmu
 
-<img width="2000" height="2000" alt="SBT Alchemy Certificate" src="https://github.com/user-attachments/assets/701c56e5-a9b0-4ea2-ae4f-e0b9af893a88" /> <br>
+<a href="https://opensea.io/item/shape/0xcbe9500ef4f760d05d70381ccdf0169470b137de/22" target="_blank" rel="noopener noreferrer">
+  <img src="https://i2.seadn.io/shape/0xcbe9500ef4f760d05d70381ccdf0169470b137de/b9638efd89335004005f909982758f/9ab9638efd89335004005f909982758f.png?w=1000" alt="SBT Badge" style={{ borderRadius: 8 }} />
+</a>
+
+> ## Klik gambar di atas untuk melihat Soulbound Token
 
 <img width="1600" height="866" alt="certificate" src="https://github.com/user-attachments/assets/bde54273-d473-432a-8b07-a27c1e7e9e7b" /> <br>
 
