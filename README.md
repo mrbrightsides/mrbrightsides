@@ -34,7 +34,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **Artificial Intelligence & Chatbot Edukasi**
 - **SDGs & Green Technology**
 - **Cloud Computing**
-- **WordPress Plugin Development**
+- **Plugin Development**
+- **Interoperabilitas IoT**
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
 
