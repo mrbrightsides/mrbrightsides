@@ -27,7 +27,7 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 ---
 
-## 💼 Minat dan Bidang Keahlian
+## 💼 Minat Penelitian dan Bidang Keahlian
 
 - **Blockchain & Smart Contract**
 - **Web3 & Digital Ecosystem**
