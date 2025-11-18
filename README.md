@@ -40,11 +40,11 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **Penulisan Akademik & Populer**
 
 <p align="center">
-  <a href="https://www.credly.com/badges/3ab61888-9d15-441c-9282-4aab72ebd1b9/public_url" target="_blank">
+  <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="150" alt="Credly Badge"/>
   </a>
   <br/>
-  <strong>Generative AI Essentials Badge</strong><br/>
+  <strong>My Other Skill Badges</strong><br/>
   <sub>Issued by Credly</sub>
 </p>
 
