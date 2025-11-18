@@ -41,11 +41,11 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 <p align="center">
   <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" width="150" alt="Credly Badge"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtU2rEYDlwgRZC3dhqJqfWXgkzEZR-3NN1pg&s" width="150" alt="Credly Badge"/>
   </a>
   <br/>
   <strong>My Other Skill Badges</strong><br/>
-  <sub>Issued by Credly</sub>
+  <sub>Issued by Google on Credly</sub>
 </p>
 
 ---
