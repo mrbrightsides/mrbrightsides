@@ -60,6 +60,7 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   </tr>
 </table>
 
+> Klik di logo untuk melihat skill lainnya
 
 ---
 
