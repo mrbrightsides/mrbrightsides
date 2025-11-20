@@ -39,13 +39,13 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 - **EdTech & Teknologi Pembelajaran**
 - **Penulisan Akademik & Populer**
 
+<p align="center"><br><strong>My Other Skill Badges</strong><br></p>
 <table align="center" cellspacing="20">
   <tr>
     <td align="center">
       <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtU2rEYDlwgRZC3dhqJqfWXgkzEZR-3NN1pg&s" width="150"/>
-      </a>
-      <br><strong>My Other Skill Badges</strong><br>
+      </a><br>
       <sub>Issued by Google on Credly</sub>
     </td>
   </tr>
@@ -53,9 +53,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
     <td align="center">
       <a href="https://drive.google.com/drive/folders/1czFuBkMQdzRy4NRtOotAqLyLwT2S4lV_" target="_blank">
         <img src="https://2022.egovconference.ee/wp-content/uploads/sites/6/2022/04/Intel-web.png" width="150"/>
-      </a>
-      <br><strong>Skill for Innovation</strong><br>
-      <sub>Issued by Intel</sub>
+      </a><br>
+      <sub>Issued by Intel on GDrive</sub>
     </td>
   </tr>
 </table>
