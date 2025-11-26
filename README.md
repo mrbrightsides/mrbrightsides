@@ -77,6 +77,8 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7a273d9-8939-4c55-8462-da8d65060b81" />
 
+![17638_403_426433_1764129273_Intel SFI Silver Ambassador_page-0001](https://github.com/user-attachments/assets/ce03e733-67e5-46e9-97a0-efe5eaa004ca)
+
 ![e-certificate_1109_Akhmad+Khudri_page-0001](https://github.com/user-attachments/assets/377399ae-206c-402d-b322-caeb4228e48d)
 
 ![certificate folu net sink](https://github.com/user-attachments/assets/684c4e77-de03-4b0c-aed3-43c2f325a0ce)
