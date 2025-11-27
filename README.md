@@ -61,6 +61,27 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 > Klik di logo untuk melihat skill lainnya
 
+<p align="center">SKILLS TABLE</p>
+
+| **Domain Skill**                                                | **Kompetensi Utama**                                                                             | **Tools / Tech Stack**                                                       | **Level**                       |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------- |
+| **AI Engineering & LLM Development**                            | API design, prompt engineering, multimodal input, building AI-powered apps                       | Gemini API, Google AI Studio, Genkit, Vertex AI, Gemma, Embeddings, RAG      | **Advanced**                    |
+| **AI Applications in Education**                                | Designing AI-infused lesson plans, productivity automation, assessment tools, inclusive learning | SFI Intel, Quizizz AI, Wayground AI tools, Classroom AI workflows            | **Expert Educator**             |
+| **Applied AI in Games & Interactive Apps**                      | Building games with AI logic, multiplayer puzzles, integrating LLM into gameplay                 | Flutter, Firebase, Gemini, Streamlit                                         | **Advanced**                    |
+| **Web & Full-Stack Engineering**                                | Modern architecture, REST API, PWA, full-stack workflows                                         | Cloud Run, JavaScript, NodeJS, PWA, Testing & Privacy modules, OpenTelemetry | **Advanced**                    |
+| **Cloud Engineering**                                           | Deploy, debug, monitor cloud-native systems                                                      | Cloud Run, Cloud Build, GKE, CI/CD Pipelines, Terraform                      | **Cloud Architect Level**       |
+| **Data Engineering**                                            | Data mesh, data lakehouse, ETL, metadata security                                                | BigLake, Dataplex, BigQuery, Data Canvas, Eventarc                           | **Advanced**                    |
+| **GPU & Accelerated Analytics**                                 | Optimizing analytics on GPU hardware, ML acceleration                                            | Google Cloud + NVIDIA, CUDA-accelerated analytics                            | **Intermediate → Advanced**     |
+| **Machine Learning & MLOps**                                    | End-to-end ML pipeline, forecasting, classification, operational ML                              | BigQuery ML, TensorFlow, ML inference pipelines                              | **Advanced**                    |
+| **Observability & Monitoring**                                  | Logs, traces, metrics, debugging microservices                                                   | OpenTelemetry (gRPC Python), Prometheus                                      | **Advanced**                    |
+| **Cybersecurity (NEW: Google Cloud Cybersecurity Certificate)** | Cloud security lifecycle, IAM, AAA, risk management, threat detection, incident response         | Zero Trust, SCC, IAM, Encryption, Threat Modeling                            | **In Progress → Analyst Level** |
+| **Blockchain Engineering**                                      | Smart contract design, token standards, transaction flow, on-chain/off-chain integration         | Solidity, Hardhat, OpenZeppelin, ERC-20, ERC-721, EVM, Remix                 | **Advanced**                    |
+| **Smart Contract Security**                                     | Static analysis, vulnerability scanning, contract audit basics                                   | Mythril, Slither, Securify, Foundry (optional), STC Analytics                | **Intermediate → Advanced**     |
+| **Decentralized App (DApp) Development**                        | Wallet login, events, ABI integration, testnet deployment                                        | Web3.js, Ethers.js, MetaMask, Sepolia Testnet                                | **Advanced**                    |
+| **System Design for Web3**                                      | Architectural thinking, decentralized workflow, hybrid systems (on/off chain)                    | SmartWisataChain architecture, JSON signatures, certificate flows            | **Architect Level**             |
+| **Enterprise Architecture & Product Engineering**               | Designing production-ready platforms, workflows, CI/CD, monitoring                               | GitHub Actions, Cloud Build, Firebase Hosting, Docker                        | **Advanced**                    |
+| **Educational Technology & Instructional Design**               | High-impact training modules, AI-based learning experience design                                | Intel SFI, Google Educator tools, custom PPT + guidelines                    | **Expert Level**                |
+
 ---
 
 ## 🧾 Sertifikasi Sesuai Bidang Ilmu
