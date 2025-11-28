@@ -23,6 +23,9 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   <a href="https://g.dev/khudri" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Dev-lightgrey?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev Profile">
   </a>
+  <a href="https://play.google.com/store/apps/dev?id=7068405869687915846" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Profile">
+  </a>
 </p>
 
 ---
