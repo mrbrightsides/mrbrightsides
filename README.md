@@ -5,9 +5,8 @@ Halo! Saya **Akhmad Khudri**, seorang dosen, peneliti, dan pembelajar seumur hid
 Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, manusia, dan masa depan.
 
 <p align="center">
-  </a>
   <a href="https://sinta.kemdikbud.go.id/authors/profile/6738721" target="_blank">
-  <img src="https://img.shields.io/badge/SINTA-0088cc?style=for-the-badge&logo=sass&logoColor=white" alt="SINTA Profile"/>
+    <img src="https://img.shields.io/badge/SINTA-0088cc?style=for-the-badge&logo=sass&logoColor=white" alt="SINTA Profile"/>
   </a>
   <a href="https://orcid.org/0009-0005-6689-2480" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID Profile"/>
@@ -17,14 +16,18 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   </a>
   <a href="https://www.webofscience.com/wos/author/record/LKK-6100-2024" target="_blank">
     <img src="https://img.shields.io/badge/Web%20of%20Science-FF6F00?style=for-the-badge&logo=Clarivate&logoColor=white" alt="Web of Science Profile"/>
+  </a>
   <a href="https://zenodo.org/communities/rantai/" target="_blank">
     <img src="https://img.shields.io/badge/Zenodo-3a77c1?style=for-the-badge&logo=zenodo&logoColor=white" alt="Zenodo RANTAI"/>
   </a>
   <a href="https://g.dev/khudri" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Dev-lightgrey?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev Profile">
+    <img src="https://img.shields.io/badge/Google%20Dev-lightgrey?style=for-the-badge&logo=google&logoColor=white" alt="Google Dev Profile"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=7068405869687915846" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Profile">
+    <img src="https://img.shields.io/badge/Google%20Play-blue?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Profile"/>
+  </a>
+  <a href="https://devpost.com/mrbrightsides" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Profile"/>
   </a>
 </p>
 
