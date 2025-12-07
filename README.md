@@ -29,6 +29,9 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   <a href="https://devpost.com/mrbrightsides" target="_blank">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Profile"/>
   </a>
+  <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+  </a>
 </p>
 
 ---
@@ -49,10 +52,10 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 <table align="center" cellspacing="20">
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
+      <a href="https://www.skills.google/public_profiles/f35b08ec-bc90-4cde-8a39-6ec2c5e8ea38" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtU2rEYDlwgRZC3dhqJqfWXgkzEZR-3NN1pg&s" width="150"/>
       </a><br>
-      <sub>Issued by Google on Credly</sub>
+      <sub>Issued by Google</sub>
     </td>
   </tr>
   <tr>
@@ -60,7 +63,7 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
       <a href="https://drive.google.com/drive/folders/1czFuBkMQdzRy4NRtOotAqLyLwT2S4lV_" target="_blank">
         <img src="https://2022.egovconference.ee/wp-content/uploads/sites/6/2022/04/Intel-web.png" width="150"/>
       </a><br>
-      <sub>Issued by Intel on GDrive</sub>
+      <sub>Issued by Intel</sub>
     </td>
   </tr>
 </table>
