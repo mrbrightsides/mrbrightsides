@@ -116,6 +116,10 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
 
 <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/a7a273d9-8939-4c55-8462-da8d65060b81" />
 
+![gemini cert educator](https://github.com/user-attachments/assets/f7580cdf-0a8b-416b-a19e-d9c0392ef69c)
+
+![gemini cert faculty](https://github.com/user-attachments/assets/44dd62e1-f729-455a-a0c8-3d9615ef1037)
+
 ![17638_403_426433_1764129273_Intel SFI Silver Ambassador_page-0001](https://github.com/user-attachments/assets/ce03e733-67e5-46e9-97a0-efe5eaa004ca)
 
 <img width="1081" height="1081" alt="Signature-CertEducator-Silver" src="https://github.com/user-attachments/assets/1f99257d-4cc5-4e97-bdaf-4b8e42c0c7cd" /> <br>
