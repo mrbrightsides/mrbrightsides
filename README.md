@@ -32,6 +32,9 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   <a href="https://www.credly.com/users/akhmad-khudri/badges" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
   </a>
+  <a href="https://www.upwork.com/freelancers/~01c17b3b0b1980e5a8?mp_source=share" target=_blank">
+    <img src="https://img.shields.io/badge/Upwork-F03E56?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile"/>
+  </a>
 </p>
 
 ---
