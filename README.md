@@ -45,11 +45,20 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbrightsides&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%"/>
 </div>
 
-<br/>
-
 <hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<!-- Core skill icons — now with Kotlin & Jetpack Compose -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,vite,python,java,kotlin,androidstudio,solidity,firebase,mongodb,mysql,docker,linux,vercel,gcp&theme=dark&perline=9" alt="Tech Arsenal"/>
+</a>
+
 <br/>
+
+</div>
 
 ---
 
