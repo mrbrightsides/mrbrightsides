@@ -2,6 +2,8 @@
 
 Halo! Saya **Akhmad Khudri**, seorang dosen, peneliti, dan pembelajar seumur hidup yang tertarik pada pertemuan antara teknologi, pendidikan, dan sejarah kemanusiaan. Saat ini saya mengajar di universitas swasta dan sedang menempuh studi doktoral dengan fokus pada **blockchain, smart contract, dan transformasi digital di sektor pariwisata**.
 
+![](https://komarev.com/ghpvc/?username=mrbrightsides&color=green)
+
 Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, manusia, dan masa depan.
 
 <p align="center">
@@ -36,6 +38,18 @@ Saya percaya bahwa teknologi bukan sekadar alat, tapi ruang dialog antara ide, m
     <img src="https://img.shields.io/badge/Upwork-F03E56?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbrightsides&bg_color=0d1117&color=00f5ff&line=7B2FFF&point=e0aaff&area=true&area_color=7B2FFF&hide_border=true&custom_title=My%20Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<hr style="border: 0; border-top: 1px solid #302b63; margin: 15px 0; opacity: 0.3;" />
+
+<br/>
 
 ---
 
